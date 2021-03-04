@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonFighter.CSharp", "DungeonFighter.CSharp.csproj", "{5F4F3017-393A-D1A6-3044-95146DF80113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonFighter.CSharp.Editor", "DungeonFighter.CSharp.Editor.csproj", "{64330D71-5791-7FD8-2F1C-210B3C40D71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4F3017-393A-D1A6-3044-95146DF80113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4F3017-393A-D1A6-3044-95146DF80113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4F3017-393A-D1A6-3044-95146DF80113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4F3017-393A-D1A6-3044-95146DF80113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64330D71-5791-7FD8-2F1C-210B3C40D71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64330D71-5791-7FD8-2F1C-210B3C40D71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64330D71-5791-7FD8-2F1C-210B3C40D71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64330D71-5791-7FD8-2F1C-210B3C40D71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
